@@ -1,0 +1,23 @@
+.modal {
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+  border-radius: 8px;
+  background-color: rgb(239, 237, 243);
+  padding: 0rem;
+  text-align: center;
+  width: 95%;
+  z-index: 9999;
+  position: absolute;
+  float: left;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.closeIcon {
+  position: absolute;
+  background: rgb(68, 41, 113);
+  color: white;
+  top: -25px;
+  right: -14px;
+  z-index: 3000;
+}
