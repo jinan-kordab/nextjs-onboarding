@@ -14,5 +14,4 @@ architecture to onboard the user on their first visit to the website.
 
 ## Demo
 
-Insert gif or link to demo
-
+https://user-images.githubusercontent.com/36752411/210161799-62117e02-5776-4565-9b4c-41d47784b57b.mp4
